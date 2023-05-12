@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm <a href="https://drxid.ru/" target="_blank" rel="noreferrer">Vadim</a> 👋
+#### I'm a JS Developer 💻 and Designer 🎨!
 
-<!--
-**drxid/drxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a JavaScript developer with a focus on frontend development. I have a passion for designing website layouts and interfaces. I enjoy creating visually appealing designs that enhance the user experience. In addition to frontend development, I also have experience in backend development.
 
-Here are some ideas to get you started:
+I strive to build robust and efficient applications that meet the needs of users. I am dedicated to continuously learning and staying up-to-date with the latest technologies and best practices in the field of web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More information about me & resume you can find <a href="https://drxid.ru/" target="_blank" rel="noreferrer">here</a>
+
+### 🤝 Connect with me:
+
+<a href="https://t.me/drxid">Telegram</a> | 
+<a href="https://vk.com/drxid">VK</a> | 
+<a href="https://be.net/drxid">Behance</a>
+</br>
