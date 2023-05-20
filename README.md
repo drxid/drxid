@@ -10,4 +10,3 @@ More information about me & resume you can find <a href="https://drxid.ru/" targ
 <a href="https://t.me/drxid">Telegram</a> | 
 <a href="https://vk.com/drxid">VK</a> | 
 <a href="https://be.net/drxid">Behance</a>
-</br>
